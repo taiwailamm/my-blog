@@ -1,0 +1,40 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	background-color: cadetblue;
+}
+h1{
+	color: darkgoldenrod;
+		text-align: center;
+}
+p{
+	color: lime;
+	text-align: right;
+}
+h1 {
+	background-color: rosybrown;
+		color:white;
+}
+h1 {
+	text-align: center;
+}
+a{
+	text-decoration: none;
+}
+p{
+	line-height: 1.8;
+	font-family:Cambria, 'Hoefler Text', 'Liberation Serif', Times, 'Times New Roman', 'serif';
+}
+#eee {
+	line-height: 10;
+	color: brown
+}
+#fff {
+	color: indianred
+}
+.aaa {
+	color: red
+}
+.ooo {
+	color: darkorange
+}
